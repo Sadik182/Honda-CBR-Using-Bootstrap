@@ -1,0 +1,20 @@
+.bg-color {
+    background-color: #264653;
+}
+.custom-btn {
+    background: #E76F51;
+}
+.hr {
+    border: 1px solid #b80808;
+    width: 70px;
+    color: rgb(185, 5, 5);
+}
+.img {
+    filter: grayscale(100%);
+}
+.footer {
+    background: #0B0D17;
+}
+.footer-img {
+    background-color: #0B0D17;
+}
